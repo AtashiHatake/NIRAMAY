@@ -30,5 +30,7 @@ Features
 - Multi-language Support: The app supports Hindi and English for ease of use by rural communities.
 
 
-DEMO OF THE APP:
+### DEMO OF THE APP:
+
+
 [![Watch the demo](https://img.youtube.com/vi/4bddoCV_UKQ/0.jpg)](https://www.youtube.com/watch?v=4bddoCV_UKQ)
